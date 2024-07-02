@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "fa_inprocess_dotnet8": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7283",
+      "launchBrowser": false
+    }
+  }
+}
